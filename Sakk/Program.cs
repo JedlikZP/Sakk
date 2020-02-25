@@ -10,6 +10,8 @@ namespace Sakk
     {
         static void Main(string[] args)
         {
+
+            Console.ReadKey();
         }
     }
 }
